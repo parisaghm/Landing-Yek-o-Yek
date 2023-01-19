@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_5453" width="40" height="40" data-name="Group 5453" viewBox="0 0 40 40">
+    <defs>
+        <style>
+            .cls-1,.cls-2,.cls-3{fill:none}.cls-2,.cls-3{stroke:#909090;stroke-width:1.5px}.cls-2{stroke-linecap:round;stroke-linejoin:round}.cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="icons_light_back" data-name="icons/light/back" transform="translate(8 8)">
+        <path id="bg" d="M0 0h24v24H0z" class="cls-1"/>
+        <g id="arrow-left" transform="translate(5 5)">
+            <path id="Line_36" d="M0 0h14" class="cls-2" data-name="Line 36" transform="translate(0 7)"/>
+            <path id="Path_12" d="M5 5l7 7-7 7" class="cls-2" data-name="Path 12" transform="translate(2 -5)"/>
+        </g>
+    </g>
+    <g id="Ellipse_96" class="cls-3" data-name="Ellipse 96">
+        <circle cx="20" cy="20" r="20" class="cls-4"/>
+        <circle cx="20" cy="20" r="19.25" class="cls-1"/>
+    </g>
+</svg>
